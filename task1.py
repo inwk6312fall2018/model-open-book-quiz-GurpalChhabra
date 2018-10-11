@@ -1,3 +1,5 @@
+#refer https://github.com/annaymj/Python-Code/blob/master/Poker.py#L48
+
 class Cards(object):
     suits=('club','diamond','heart','spade')
     cardsnum=('A','2','3','4','5','6','7','8','9','10','j','q','k',)
